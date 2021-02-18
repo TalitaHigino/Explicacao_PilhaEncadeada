@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-// pop pra retirar e push pra inserir == tradução rs
+// pop pra retirar e push pra inserir == tradução 
 namespace Explicacao_PilhaEncadeada
 {
     class Pilha_DinamicaLivro
